@@ -6,4 +6,5 @@ Experience traditional Tic Tac Toe offline! This web app, crafted with HTML, CSS
 
 Here is the screenshot of the project:
 
-![Screenshot 2024-01-30 045052](https://github.com/TilakRathoure/Tic-tac-toe/assets/126514769/9a13ebeb-9ae5-45d0-8c2c-dc1eaefbd924)
+
+![Screenshot 2024-02-05 225120](https://github.com/TilakRathoure/Tic-tac-toe/assets/126514769/a5e9e6a7-e18c-4bd4-9677-2d79297f3342)
